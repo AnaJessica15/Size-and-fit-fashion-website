@@ -14,7 +14,7 @@ The 3D try-on solution is a real-time virtual try-on system that enables consume
 
 Within the given time, we have tried our best to create a fashion website which includes Home page, Women's section and Purchase cart section. The respective coding in included in our GitHub page.
 
-The 'My Stylist' app is developed to work as a virtual fitting room so shoppers can try on clothes prior to purchase. This app would need access to personal data in order to act as a personal stylist and produce images of shoppers wearing outfits they are considering to purchase. We have designed the prototype of our app and the images are included here. https://drive.google.com/file/d/1NqffcG_jrSitlq-ihRjtIYbPGVkVk80B/view?usp=sharing
+The 'My Stylist' app is developed to work as a virtual fitting room so shoppers can try on clothes prior to purchase. This app would need access to personal data in order to act as a personal stylist and produce images of shoppers wearing outfits they are considering to purchase. We have designed the prototype of our app and the images are included here. https://github.com/AnaJessica15/Size-and-fit-fashion-website/blob/1bdfbdaac09a6b30445fccc7c43dd817c3c454ab/demo_1.mp4
 
 ## SCOPE
 
